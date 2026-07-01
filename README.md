@@ -1,7 +1,5 @@
 # Bitcoin Market Sentiment vs Trader Performance Analysis
 
-**Primetrade.ai — Data Science Hiring Assignment**
-
 An end-to-end quantitative analysis of 124,930 trades on the Hyperliquid DEX, exploring whether the Bitcoin Fear/Greed Index predicts or shapes trader performance outcomes.
 
 ---
@@ -344,4 +342,4 @@ python generate_notebook.py  # Produces output/primetrade_analysis.ipynb
 
 ---
 
-*Primetrade.ai Data Science Assignment — Analyst: Mahizhan — July 2026*
+*Analyst: Mahizhan — July 2026*
