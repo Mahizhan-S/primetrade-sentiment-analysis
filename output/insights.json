@@ -1,0 +1,57 @@
+{
+  "total_trades": 124930,
+  "total_traders": 19,
+  "date_range": "2023-05-01 to 2025-05-01",
+  "overall_win_rate": 40.76,
+  "pearson_r_fg_pnl": 0.0006,
+  "pearson_p": 0.9895,
+  "spearman_r": 0.0571,
+  "anova_f": 9.6987,
+  "anova_p": 0.0,
+  "lag1_r": -0.0569,
+  "lag1_p": 0.2153,
+  "pnl_by_sentiment": {
+    "Extreme Fear": 69.69,
+    "Fear": 73.78,
+    "Neutral": 49.16,
+    "Greed": 35.71,
+    "Extreme Greed": 87.23
+  },
+  "win_rate_by_sentiment": {
+    "Extreme Fear": 35.65,
+    "Fear": 43.74,
+    "Neutral": 41.07,
+    "Greed": 35.97,
+    "Extreme Greed": 45.21
+  },
+  "summary_stats": {
+    "Avg PnL": {
+      "Extreme Fear": 69.69,
+      "Fear": 73.78,
+      "Neutral": 49.16,
+      "Greed": 35.71,
+      "Extreme Greed": 87.23
+    },
+    "Median PnL": {
+      "Extreme Fear": 0.0,
+      "Fear": 0.0,
+      "Neutral": 0.0,
+      "Greed": 0.0,
+      "Extreme Greed": 0.0
+    },
+    "Std Dev": {
+      "Extreme Fear": 1645.81,
+      "Fear": 1147.64,
+      "Neutral": 585.19,
+      "Greed": 1205.56,
+      "Extreme Greed": 997.26
+    },
+    "Trades": {
+      "Extreme Fear": 8403,
+      "Fear": 36200,
+      "Neutral": 24481,
+      "Greed": 34780,
+      "Extreme Greed": 21066
+    }
+  }
+}
